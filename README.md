@@ -1,0 +1,2 @@
+# programming-fundamentals
+journey starts
